@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567590296980",
+    "project_id": "loja-30d5f",
+    "storage_bucket": "loja-30d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567590296980:android:7edfac89f67595d71b8381",
+        "android_client_info": {
+          "package_name": "br.com.mv.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567590296980-f10727pjg7ur4ue2pnlpqshft7kc2k2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCPefG0brPnwrl04dth8bXpPGsFNIQcFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567590296980-f10727pjg7ur4ue2pnlpqshft7kc2k2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
